@@ -1,0 +1,41 @@
+body, html{
+    height: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background: linear-gradient(rgba(248, 245, 245, 0.8), rgba(234, 8, 8, 0.67)), url(./img/Bandera.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.logo{
+    height: 100px;
+    margin-top: -30px;
+}
+.text-description{
+    letter-spacing: 3px;
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.form-control{
+    background: transparent;
+    color: rgb(17, 16, 16);
+}
+a .fab{
+    color: rgb(42, 38, 38);
+    font-size: 30px;
+    margin: 0 10px;
+}
+
+.text-center{
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: 4px;
+}
+
+.mb-4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h1{
+    font-family: 'Times New Roman', Times, serif;
+}
